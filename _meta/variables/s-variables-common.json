@@ -1,0 +1,6 @@
+{
+  "project": "serverless-starter",
+  "projectBucket": "serverless.us-east-1.n00b",
+  "domain": "n00b",
+  "notificationEmail": "liorr.morrison@gmail.com"
+}
